@@ -68,7 +68,7 @@ Los carteles podrán ser colocados CON CINTA DOBLE CARA desde una hora antes de 
 				<div class="collapse navbar-collapse"> 
 					<ul class="nav navbar-nav navbar-left"> 
 						<li  class="scroll active"><a  href="index.php">Inicio</a></li>
-                                                <li  class="scroll"><a  href="/proyectomvc/memory.html">Memorias</a></li>
+                                                <li  class="scroll"><a  href="/views/memory.html">Memorias</a></li>
                                                 <li  class="scroll"><a  href="src/2022_Convocatoria.pdf">Convocatoria</a></li>
 						<li  class="scroll"><a  href="/proyectomvc/virtual.html">Sede</a></li>
 						<li  class="scroll"><a  href="/proyectomvc/instituciones.html">Instituciones afiliadas</a></li>
