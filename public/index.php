@@ -9,12 +9,12 @@
 <meta name="Keywords" content="Congreso Tecnologias Reynosa">
 	<meta name="author" content="DAP"> 
     <link rel="stylesheet" href="./css/style.css">
-	<link href="./css/bootstrap.min.css" rel="stylesheet">
-	<link href="./css/prettyPhoto.css" rel="stylesheet"> 
-	<link href="./css/font-awesome.min.css" rel="stylesheet"> 
-	<link href="./css/animate.css" rel="stylesheet"> 
-	<link href="./css/main.css" rel="stylesheet">
-	<link href="./css/responsive.css" rel="stylesheet"> 
+	<link href="/css/bootstrap.min.css" rel="stylesheet">
+	<link href="/css/prettyPhoto.css" rel="stylesheet"> 
+	<link href="/css/font-awesome.min.css" rel="stylesheet"> 
+	<link href="/css/animate.css" rel="stylesheet"> 
+	<link href="/css/main.css" rel="stylesheet">
+	<link href="/css/responsive.css" rel="stylesheet"> 
 	<!--[if lt IE 9]> <script src="js/html5shiv.js"></script> 
 	<script src="js/respond.min.js"></script> <![endif]--> 
 	<link rel="shortcut icon" href="images/ico/favicon.png"> 
@@ -69,13 +69,13 @@ Los carteles podrán ser colocados CON CINTA DOBLE CARA desde una hora antes de 
 					<ul class="nav navbar-nav navbar-left"> 
 						<li  class="scroll active"><a  href="index.php">Inicio</a></li>
                                                 <li  class="scroll"><a  href="/views/memory.html">Memorias</a></li>
-                                                <li  class="scroll"><a  href="src/2022_Convocatoria.pdf">Convocatoria</a></li>
-						<li  class="scroll"><a  href="/proyectomvc/virtual.html">Sede</a></li>
-						<li  class="scroll"><a  href="/proyectomvc/instituciones.html">Instituciones afiliadas</a></li>
+                                                <li  class="scroll"><a  href="/src/2022_Convocatoria.pdf">Convocatoria</a></li>
+						<li  class="scroll"><a  href="/views/virtual.html">Sede</a></li>
+						<li  class="scroll"><a  href="/views/instituciones.html">Instituciones afiliadas</a></li>
 						<!--<li  class="scroll"><a  href="Conferencistas.pdf">Conferencistas</a></li>-->
-						<li  class="scroll"><a  href="/proyectomvc/programa.html">Programa</a></li>
+						<li  class="scroll"><a  href="/views/programa.html">Programa</a></li>
 						<!--<li  class="scroll"><a  href="expo.html">Exposición Industrial</a></li>-->
-						<li  class="scroll"><a  href="/proyectomvc/contacto.html">Contacto</a></li>
+						<li  class="scroll"><a  href="/views/contacto.html">Contacto</a></li>
 						</ul>
 			<!--Start Login/Register-->			
 		 <div id="wrap">
@@ -107,7 +107,7 @@ Los carteles podrán ser colocados CON CINTA DOBLE CARA desde una hora antes de 
 		</div>
   
 	<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
-        <script src="js/index.js"></script>
+        <script src="/js/index.js"></script>
 			<!--End Login/Register-->
 							        </div>
 							</div>
@@ -121,7 +121,7 @@ Los carteles podrán ser colocados CON CINTA DOBLE CARA desde una hora antes de 
 
 <h3  style="color:red">Pendiente próxima convocatoria</h3>
 		</div>
-<img src = "images/Horizontal 2020.jpg" style = "margin-left:auto; margin-right:auto; display:block; width:50%;" />
+<img src = "/images/Horizontal 2020.jpg" style = "margin-left:auto; margin-right:auto; display:block; width:50%;" />
 </section><!--/#home-->
 
 <section id="about-us">
@@ -431,17 +431,17 @@ Los carteles podrán ser colocados CON CINTA DOBLE CARA desde una hora antes de 
 
 		<!--Logos-->
 	<div align="center" id = "Logos">
-<a href = "https://uvm.mx/"><img  id = "imagen" style = "width:10%" src = "images/UVM.png"></a>
+<a href = "https://uvm.mx/"><img  id = "imagen" style = "width:10%" src = "/images/UVM.png"></a>
 		
-		<a href = "http://www.uttn.edu.mx/"><img  id = "imagen" style = "width:10%" src = "images/UTTN2.png"></a>
+		<a href = "http://www.uttn.edu.mx/"><img  id = "imagen" style = "width:10%" src = "/images/UTTN2.png"></a>
 
-		<a href = "http://www.uat.edu.mx/SitePages/principal.aspx"><img  id = "imagen" style = "width:19%" src = "images/logo-uat.png"></a>
+		<a href = "http://www.uat.edu.mx/SitePages/principal.aspx"><img  id = "imagen" style = "width:19%" src = "/images/logo-uat.png"></a>
 
-		<a href = "http://www.inifap.gob.mx/SitePages/Inicio.aspx"><img  id = "imagen" style = "width:12%" src = "images/logo-inifap.png"></a>
+		<a href = "http://www.inifap.gob.mx/SitePages/Inicio.aspx"><img  id = "imagen" style = "width:12%" src = "/images/logo-inifap.png"></a>
 		
-<a href = "http://www.cbg.ipn.mx/Paginas/Inicio.aspx"><img  id = "imagen" style = "width:10%" src = "images/logo-cbg.png"></a>
+<a href = "http://www.cbg.ipn.mx/Paginas/Inicio.aspx"><img  id = "imagen" style = "width:10%" src = "/images/logo-cbg.png"></a>
 		
-		<a href = "http://www.uman.edu.mx/nuestrainstitucion/ideario.htm"><img  id = "imagen" style = "width:10%" src = "images/logo-uman.png"></a>
+		<a href = "http://www.uman.edu.mx/nuestrainstitucion/ideario.htm"><img  id = "imagen" style = "width:10%" src = "/images/logo-uman.png"></a>
 
 		
 		
@@ -464,12 +464,12 @@ Los carteles podrán ser colocados CON CINTA DOBLE CARA desde una hora antes de 
     </footer>
     <!--/#footer-->
 
-	<script type="text/javascript" src="js/jquery.js"></script> 
-	<script type="text/javascript" src="js/bootstrap.min.js"></script>
-	<script type="text/javascript" src="js/smoothscroll.js"></script> 
-	<script type="text/javascript" src="js/jquery.isotope.min.js"></script>
-	<script type="text/javascript" src="js/jquery.prettyPhoto.js"></script> 
-	<script type="text/javascript" src="js/jquery.parallax.js"></script> 
-	<script type="text/javascript" src="js/main.js"></script> 
+	<script type="text/javascript" src="/js/jquery.js"></script> 
+	<script type="text/javascript" src="/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="/js/smoothscroll.js"></script> 
+	<script type="text/javascript" src="/js/jquery.isotope.min.js"></script>
+	<script type="text/javascript" src="/js/jquery.prettyPhoto.js"></script> 
+	<script type="text/javascript" src="/js/jquery.parallax.js"></script> 
+	<script type="text/javascript" src="/js/main.js"></script> 
 </body>
 </html>
